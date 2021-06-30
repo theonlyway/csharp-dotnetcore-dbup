@@ -1,4 +1,4 @@
-# int-csharp-octopus-dbup
+# csharp-dotnetcore-dbup
 ## Overview
 C# Dotnet Core 3.1 application built on [DBUp](https://dbup.github.io/) to deploy SQL based change sets to the major database engines.
 ## Requirements
