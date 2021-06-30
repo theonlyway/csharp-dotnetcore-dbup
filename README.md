@@ -18,7 +18,7 @@ dotnet build
 dotnet build --configuration Release
 ```
 * Build a project and its dependencies for a specific runtime (in this example, Ubuntu 18.04):
-    * [List of runtime ID's](https://github.com/dotnet/runtime/blob/master/src/libraries/pkg/Microsoft.NETCore.Platforms/runtime.json)
+    * [List of runtime ID's](https://github.com/dotnet/runtime/blob/main/src/libraries/Microsoft.NETCore.Platforms/src/runtime.json)
 ```
 dotnet build --runtime ubuntu.18.04-x64
 ```
